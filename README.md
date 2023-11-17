@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thiago.dematos.1@gmail.com**
 
-- ⚡ Fun fact **I love Coffee, Traveling, Watches, Cars, and Learning new things.**
+- ⚡ Fun fact **I love trying different types of coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
