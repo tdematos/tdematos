@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Completing the Odin Project**
 
-- 🌱 I’m currently learning **Node,React, TypeScript**
+- 🌱 I’m currently learning **Node, React, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tdematos?tab=repositories](https://github.com/tdematos?tab=repositories)
 
