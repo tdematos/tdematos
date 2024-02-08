@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdematos" alt="tdematos" /></a> </p>
 
-- 🔭 I’m currently working on **Completing the Odin Project**
+- 🔭 I’m currently working on **Completing Harvard University CS50x**
 
 - 🌱 I’m currently learning **Node, React, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tdematos?tab=repositories](https://github.com/tdematos?tab=repositories)
 
 - 💬 Ask me about **JavaScript**
 
