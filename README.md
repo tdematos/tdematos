@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Completing Harvard University CS50x**
 
-- 🌱 I’m currently learning **Node, React, TypeScript**
+- 🌱 I’m currently learning **, React, TypeScript, and DSA**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **thiago.dematos.1@gmail.com**
 
-- ⚡ Fun fact **I love trying different types of coffee.**
+- ⚡ Fun fact **I love trying different types of coffee, eating in new places, and traveling the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
