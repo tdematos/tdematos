@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Completing Harvard University CS50x**
 
-- 🌱 I’m currently learning **, React, TypeScript, and DSA**
+- 🌱 I’m currently learning **React, TypeScript, and DSA**
 
 - 💬 Ask me about **JavaScript**
 
