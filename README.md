@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdematos&label=Profile%20views&color=0e75b6&style=flat" alt="tdematos" /> </p>
 
-- 🔭 I’m currently working on **Completing Harvard University CS50x**
+- 🔭 I’m currently working on **Building an e-commerce site using React**
 
 - 🌱 I’m currently learning **React, TypeScript, and DSA**
 
