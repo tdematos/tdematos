@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">If I get 1% better everyday, I will be more than 100% better at the end of the year!</h3>
+<h3 align="center">I'm a Front-End Developer with a Knack for style!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdematos&label=Profile%20views&color=0e75b6&style=flat" alt="tdematos" /> </p>
 
