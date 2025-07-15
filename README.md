@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">I'm a Front-End Developer with a Knack for style!</h3>
+<h3 align="center">I'm a Front-End/ Web Developer with a Knack for style!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdematos&label=Profile%20views&color=0e75b6&style=flat" alt="tdematos" /> </p>
 
-- 🔭 I’m currently working on **Building an e-commerce site using React**
+- 🔭 I’m currently working on **Various Wordpress Websites and Applications**
 
-- 🌱 I’m currently learning **React, TypeScript, and DSA**
+- 🌱 I’m currently learning **AWS & PHP**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **thiago.dematos.1@gmail.com**
 
-- ⚡ Fun fact **I love trying different types of coffee, eating in new places, and traveling the world!**
+- ⚡ Fun fact **You can catch me anywhere sipping on a cup of coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
